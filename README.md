@@ -7,5 +7,7 @@ masterfile-excelsheet.xlsx is where I have highlighted different aspects of the 
 
 In the data folder, there is all of the audio files I used for my experiment. The entire dataset was unable to fit when moving it to github so it can be referrenced at https://www.kaggle.com/datasets/rtatman/speech-accent-archive
 
+The writeup can be found in "Accents, Noise, and ASR Models.pdf"
+
 In order to run the code you must make sure the following libraries are installed: whisper, transformers, torch, librosa, os, csv, and jiwer.
 Once all the libraries are installed, the third cell in final_proj.ipynb creates the masterfile.csv used for the experiment.
